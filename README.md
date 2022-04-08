@@ -19,7 +19,21 @@ Contact Us – The page where the user can contact for fedback
 
 ## Website screenshort:
 
+![4](https://user-images.githubusercontent.com/99526815/162499801-0a24ccf4-1524-4e65-902e-93c4dd2388a0.PNG)
 
+Fig 1: Home Page of Website
+
+![3](https://user-images.githubusercontent.com/99526815/162499838-ccec631a-635d-41a2-83b1-5f642be04238.PNG)
+
+Fig 2: Contact Us page
+
+![2](https://user-images.githubusercontent.com/99526815/162499922-d98b915e-079c-450a-880c-e6bcb20d85a7.PNG)
+
+Fig 3: DateBase Entry
+
+![1](https://user-images.githubusercontent.com/99526815/162499977-d83cd394-20d6-473e-a7ff-4c67d720f1fd.PNG)
+
+Fig 4: DataBase Entry
 
 ## Conclusion:
 
